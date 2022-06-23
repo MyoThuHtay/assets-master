@@ -1,0 +1,14 @@
+{
+    "name": "MOPS TOKEN",
+    "website": "https://mopstoken.online/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x2fd38C1A195A0994944e302bE78D604D3a6cf22f",
+    "type": "BEP20",
+    "symbol": "MTOKEN",
+    "decimals": 2,
+    "status": "active",
+    "id": "0x2fd38C1A195A0994944e302bE78D604D3a6cf22f",
+    "links": [
+       
+    ]
+}
